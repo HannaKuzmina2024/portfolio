@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Project 1</b>
-  - [Weather report data](https://github.com/manfred-brunner/weather_report_data/tree/main)
+  - [MPDL project](https://github.com/HannaKuzmina2024/mpdl-project)
 
 
 

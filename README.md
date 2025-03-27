@@ -1,12 +1,15 @@
 <h1>Hi, I'm Hanna! </h1>
 <h2>Welcome to my Data Science, Data Analytics and Data Engineering portfolio. </h2>
-<h2> Currently I am updating my portfolio, here is my first new project:</h2>
+<h2> Currently I am updating my portfolio, here are my new projects:</h2>
 
 - <h2>A Big Data Analytics Project for Research Information Management</h2>
 
   - [MPDL project](https://github.com/HannaKuzmina2024/mpdl-project)
 
 
+- <h2>OpenSky Flight Data Analytics Project</h2>
+
+  - [OSFD project](https://github.com/HannaKuzmina2024/open-sky-flight-data)
 
 
 

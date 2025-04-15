@@ -13,6 +13,12 @@
 
 
 
+- <h2>HR/Payroll-Type System Project</h2>
+
+  - [HR/Payroll-Type System](https://github.com/HannaKuzmina2024/PL-pgSQL)
+
+
+
 <h2> Connect with me:</h2>
 
 
